@@ -1,0 +1,123 @@
+body {
+	background-color: #800000;
+    text-align: center;
+}
+
+h1 {
+    font-size: 44pt;
+    text-align: center;
+    color: #ffffff;
+    border-bottom: 1px solid #ffffff;
+    width: 100%;
+    display: block;
+}
+
+.ah {
+    font-size: 17pt;
+}
+
+h5, p {
+	text-align: center;
+	color: #ffffff;
+}
+
+img{
+max-width: 384px;
+height: 216px;
+transition: all 0.3s ease-in-out;
+display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.pimg:hover{
+max-width: 384px;
+height: 216px;
+box-shadow: 10px 10px 10px #4d0000;
+border-radius: 5%;
+opacity: 0.95;
+transition: all 0.3s ease-in-out;
+display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.button1 {
+  text-decoration: none;
+  color: #ffffff;
+  background: #333333;
+  padding: 15px 40px;
+  border-radius: 4px;
+  font-weight: normal;
+  display: inline-block;
+  text-transform: uppercase;
+  transition: all 0.3s ease-in-out;
+}
+
+.glow-button1:hover {
+  color: #000000;
+  background: #bfbfbf;
+  box-shadow: 0 5px 10px #4d0000;
+  border-radius: 5px;
+   transition: all 0.3s ease-in-out;
+}
+
+.button2 {
+  text-decoration: none;
+  color: #ffffff;
+  background: #333333;
+  padding: 15px 40px;
+  border-radius: 4px;
+  font-weight: normal;
+  display: inline-block;
+  text-transform: uppercase;
+  transition: all 0.3s ease-in-out;
+}
+
+.glow-button2:hover {
+  color: #000000;
+  background: #bfbfbf;
+  box-shadow: 0 5px 10px #4d0000;
+border-radius: 5px;
+ transition: all 0.3s ease-in-out;
+}
+
+.button3 {
+  text-decoration: none;
+  color: #ffffff;
+  background: #333333;
+  padding: 15px 40px;
+  border-radius: 4px;
+  font-weight: normal;
+  display: inline-block;
+  text-transform: uppercase;
+  transition: all 0.3s ease-in-out;
+}
+
+.glow-button3:hover {
+  color: #000000;
+  background: #bfbfbf;
+  box-shadow: 0 5px 10px #4d0000;
+border-radius: 5px;
+ transition: all 0.3s ease-in-out;
+}
+
+.button4 {
+  text-decoration: none;
+  color: #ffffff;
+  background: #333333;
+  padding: 15px 40px;
+  border-radius: 4px;
+  font-weight: normal;
+  display: inline-block;
+  text-transform: uppercase;
+  transition: all 0.3s ease-in-out;
+}
+
+.glow-button4:hover {
+  color: #000000;
+  background: #bfbfbf;
+  box-shadow: 0 5px 10px #4d0000;
+border-radius: 5px;
+ transition: all 0.3s ease-in-out;
+}
