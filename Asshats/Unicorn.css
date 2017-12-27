@@ -1,0 +1,17 @@
+body {
+	background-color: #800000;
+}
+
+p {
+	text-align: center;
+	color: #ff1a1a;
+	font-size: 44pt;
+}
+
+#du {
+	width: 438.5px;
+	height: 620.125px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
