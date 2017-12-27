@@ -1,0 +1,55 @@
+#text-link:link, #text-link:visited {
+	background-color: #4d4d4d;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 8px;
+}
+
+#text-link:hover, #text-link:active {
+	background-color: #000000;
+}
+
+#fourth:link, #fourth:visited {
+    background-color: #4d4d4d;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 8px;
+}
+
+#fourth:hover, #fourth:active {
+	background-color: #000000;
+}
+
+#facefuck:link, #facefuck:visited {
+    background-color: #4d4d4d;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 8px;
+}
+
+#facefuck:hover, #facefuck:active {
+	background-color: #000000;
+}
+
+#x:link, #x:visited {
+    background-color: #4d4d4d;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 8px;
+}
+
+#x:hover, #x:active {
+	background-color: #000000;
+}
